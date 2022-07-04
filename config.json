@@ -1,0 +1,57 @@
+{
+    "bot": {
+        "token": "TOKEN",
+        "owner": "KENDI ID'NIZ KESINLIKLE GIRIN",
+        "prefix": ".",
+        "BotStatus": "Bot Durum",
+        "BotFooter": "Bot Footer",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "TAG LOG ID",
+        "isimlog": "ISIM LOG ID",
+        "rollog": "ROL LOG ID",
+        "kayıtlog": "KAYIT LOG ID"
+    },
+    "roles": {
+        "booster": "BOOSTER ROL ID",
+        "vip": "VIP ROL ID",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID"
+    },
+    "channels": {
+        "chat": "CHAT KANALI ID",
+        "voicechannel": "SES KANALI ID GIRMEZSENIZ BOT ACILMAYACAKTIR",
+        "welcomechannel": "HOŞ GELDİN KANALI ID",
+        "rules": "KURALLAR KANALI ID"
+    },
+    "registration": {
+        "unregistered": "KAYITSIZ ROL ID",
+        "man": ["1. ERKEK ROL ID", "2. ROL ID"],
+        "woman": ["1. KADIN ROL ID", "2. KADIN ROL ID"],
+        "botcommands": "BOT KOMUT ROL ID (VIP MUSİZYEN VEREBİLECEK)",
+        "staff": "REGISTER YETKILI ROL ID",
+        "GuilDTag": "TAGINIZ",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "ŞÜPHELİ HESAP ROL ID",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "oneman": "ANA ERKEK ROL ID",
+        "onewoman": "ANA KADIN ROL ID",
+        "GuildDiscrim": "ETIKET TAGINIZ YOKSA BOS BIRAKIN",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "SUNUCU ID",
+        "GuilDName": "SUNUCU ADI",
+        "GuildOwnerRole": ["SUNUCU KURUCU ROL ID", "SUNUCU KURUCU ROL ID"]
+    },
+    "emojis": {
+        "tada": "TADA EMOJI",
+        "yes": "ONAY EMOJI",
+        "no": "RED EMOJI"
+        }
+    } 
