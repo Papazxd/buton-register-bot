@@ -8,7 +8,6 @@ module.exports = {
 
     execute: async (client, message, args, embed, author, channel, guild) => {
         message.reply({ embeds: [embed.setDescription(`
-\`- ${config.bot.prefix}kke [@Kişi/ID]
 - ${config.bot.prefix}isimler [@Kişi/ID]
 - ${config.bot.prefix}kayıtsız-etiketle
 - ${config.bot.prefix}kayıt [@Kişi/ID] (isim-yaş)
