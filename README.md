@@ -1,5 +1,5 @@
 #  Ayarlar
-### Botunuzun doğru ve hatasız çalışması için `ayarlar.js` dosyasını doğru bir şekilde doldurmanız gerekiyor
+### Botunuzun doğru ve hatasız çalışması için `config.js` dosyasını doğru bir şekilde doldurmanız gerekiyor
 
 
 ## Duyuru: Proje MIT lisansına sahiptir ve projenin dosyalarının izin alınmadan paylaşılması satılması  veya benzeri durumlar kesinlikle yasaktır İşlem Başlatırım
