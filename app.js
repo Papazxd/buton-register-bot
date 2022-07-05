@@ -32,7 +32,7 @@ readdir("./src/commands/", (err, files) => {
       if (err2) console.log(err2)
       files2.forEach(file => {
         let prop = require(`./src/commands/${f}/` + file);
-        console.log(`[Xlay-COMMAND] ${prop.name} yüklendi!`);
+        console.log(`[Papaz-COMMAND] ${prop.name} yüklendi!`);
         commands.set(prop.name, prop);
         prop.aliases.forEach(alias => {
           aliases.set(alias, prop.name);
